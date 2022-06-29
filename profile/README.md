@@ -7,7 +7,3 @@ Hi, I'm Yaryna Wang.
 ![student-card](assets/student-card.jpg)
 
 This is me in Israel:
-
-<img src="assets/Isreal.jpg" alt="Israel" width="30%" />
-
-Thank u!
