@@ -2,12 +2,12 @@
 
 Hi, I'm Yaryna Wang.
 
-下面是我的学生证上的照片 **虽然加了十层滤镜**
+下面是我的学生证上的照片 **虽然加了十层滤镜hhh**
 
 <img src="assets/student-card.jpg" alt="student-card" width="30%" />
 
-This is me in Isreal:
+This is me in Israel:
 
-<img src="assets/Isreal.jpg" alt="Isreal" width="30%" />
+![Israel](assets/Isreal.jpg)
 
 Thank u!
