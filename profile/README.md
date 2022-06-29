@@ -8,6 +8,6 @@ Hi, I'm Yaryna Wang.
 
 This is me in Israel:
 
-![Isreal](assets/Isreal.jpg)
+<img src="assets/Isreal.jpg" alt="Israel" width="30%" />
 
 Thank u!
