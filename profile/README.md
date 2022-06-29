@@ -2,7 +2,7 @@
 
 Hi, I'm Yaryna Wang.
 
-这是我学生卡上的官方照片 **虽然加了十层滤镜hhh**
+这张我学生卡上的照片 **虽然加了十层滤镜hhh**
 
 <img src="assets/my-student-card.jpg" alt="my-student-card" width="30%" />
 
