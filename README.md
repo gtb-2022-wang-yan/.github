@@ -1,3 +1,5 @@
 # Welcome to Yaryna's Org
 
-This is me
+Hi, I'm Yaryna Wang.
+
+![This is a picture](C:\Users\Acer\Downloads\in_Israel.jpg)
