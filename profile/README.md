@@ -1,4 +1,4 @@
-# Welcome to Yaryna's Org :)
+# Welcome to Yaryna's Org : )
 
 Hi, I'm Yaryna Wang.
 
